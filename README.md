@@ -16,7 +16,8 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-![]('https://github.com/fernandoDelPo/meli-frontend-challenge/blob/main/public/img01.jpg')
+
+![img01](https://github.com/fernandoDelPo/meli-frontend-challenge/blob/main/public/img01.jpg)
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
